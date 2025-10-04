@@ -101,4 +101,15 @@ Nike Air Max is the best performer in clothing.
 
 Philips Air Fryer tops home & kitchen appliances.
 
-This empowers decision-makers to focus marketing, optimize stock, and improve business strategies.
+This empowers decision-makers to focus marketing, optimize stock, and improve business strategies.<img width="552" height="413" alt="image" src="https://github.com/user-attachments/assets/78099971-a301-4df3-9d83-be3b78da8199" /> rt 2 – EDA (Exploratory Data Analysis)
+
+Histogram of User Rating.
+<img width="552" height="413" alt="image" src="https://github.com/user-attachments/assets/52ff5438-d0b2-47c4-813a-d268104bf5fc" />Histogram of Price.
+<img width="567" height="432" alt="image" src="https://github.com/user-attachments/assets/00f7e57b-0533-4864-9551-0c9a33116c5e" />
+Scatter plot: Price vs User Rating.
+<img width="562" height="476" alt="image" src="https://github.com/user-attachments/assets/f767ce4b-ac4a-43a5-9576-c39950adf0f4" />
+Count of books per year (bar chart).
+
+
+
+
